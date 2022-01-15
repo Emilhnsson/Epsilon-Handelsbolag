@@ -15,5 +15,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 30pt;
+    font-size: 60pt;
+    font-family: 'Montserrat', sans-serif;
 }
