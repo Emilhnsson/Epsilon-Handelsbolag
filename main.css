@@ -1,0 +1,14 @@
+/*
+Here is all the code for site-wide css
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+}
+
+.Page {
+    width: 100%;
+    height: 100%;
+}
