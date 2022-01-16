@@ -10,7 +10,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-.Page {
+.Page{
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -32,4 +32,15 @@ body{
 
 .Right{
     background-color: #cfcfcf;
+}
+
+footer{
+    height: 300px;
+    background-color: #383838;
+    width: 100vw;
+}
+
+footer .Half{
+    width: 50%;
+    height: 100%;
 }
