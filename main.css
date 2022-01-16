@@ -9,6 +9,14 @@ Here is all the code for page-wide css
     overflow-x: hidden;
 }
 
+.Page{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .Page.Info{
     background-color: #dddddd;
 }
