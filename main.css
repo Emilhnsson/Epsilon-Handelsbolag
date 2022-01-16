@@ -30,7 +30,7 @@ body{
 
 }
 
-.Right{
+.Page .Right{
     background-color: #cfcfcf;
 }
 
@@ -43,4 +43,8 @@ footer{
 footer .Half{
     width: 50%;
     height: 100%;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
